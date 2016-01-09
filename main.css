@@ -1,0 +1,109 @@
+/* 
+    Created on : Dec 20, 2015, 4:36:32 PM
+    Author     : smithl
+*/
+.nav a {
+  color: #143E14;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav .indent a:hover {
+    background-color: #5C8A5C;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.nav .indent li.active a {
+    background-color: #143E14;
+    border-radius: 4px;
+    color: #FFF;
+}
+
+
+.nav li {
+  display: inline;
+}
+
+.nav .logo img {
+    height: 60px;
+    width: auto;
+}
+
+.nav .indent{
+    position: relative;
+    top: 40px
+}
+
+.nav .rightside {
+    padding: 14px 1px;
+}
+
+.nav .rightside img {
+    height: 30px;
+    width: auto;
+}
+
+.jumbotron {
+  background-color: #143E14;
+  height: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:40px;
+}
+
+.jumbotron h1 {
+  color: #FFF;
+  font-size: 48px;  
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #5C8A5C;
+}
+
+.learn-more {
+  background-color: #FFF;
+}
+
+.learn-more h3 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.learn-more p {
+    padding-top: 10px;
+}
+
+.learn-more a {
+  color: #072B07;
+}
+
+.learn-more img {
+    height: 250px;
+    width: 375px;
+}
+
+.lower-bar {
+    position: relative;
+    top: 20px;
+    background-color: #EEE;
+    height: 45px;
+}
+
+.lower-bar .container {
+    position: relative;
+    top: 15px
+}
+
+.lower-bar p {
+    font-size: 12px;
+}
+
