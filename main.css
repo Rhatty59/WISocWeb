@@ -1,9 +1,8 @@
-
 .nav a {
   color: #143E14;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: bold;
-  padding: 14px 10px;
+  padding: 14px 20px;
   text-transform: uppercase;
 }
 
@@ -32,15 +31,6 @@
 .nav .indent{
     position: relative;
     top: 40px
-}
-
-.nav .rightside {
-    padding: 14px 1px;
-}
-
-.nav .rightside img {
-    height: 30px;
-    width: auto;
 }
 
 .jumbotron {
