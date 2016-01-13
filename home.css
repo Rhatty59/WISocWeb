@@ -1,0 +1,26 @@
+.learn-more {
+  background-color: #FFF;
+  position: relative;
+  top: -20px;
+}
+
+.learn-more h3 {
+  font-size: 22px;
+  font-weight: bold;
+  color: #086D44;
+  padding-bottom: 10px;
+}
+
+.learn-more p {
+    padding-top: 10px;
+}
+
+.learn-more a {
+  color: #A3D12D;
+}
+
+.learn-more img {
+    height: 250px;
+    width: 375px;
+}
+

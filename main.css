@@ -1,31 +1,33 @@
 .nav a {
-  color: #143E14;
-  font-size: 18px;
+  color: #086D44;
+  font-size: 20px;
   font-weight: bold;
   padding: 14px 20px;
   text-transform: uppercase;
 }
 
 .nav .indent a:hover {
-    background-color: #5C8A5C;
+    background-color: #086D44;
     border-radius: 4px;
     text-decoration: none;
-}
-
-.nav .indent li.active a {
-    background-color: #143E14;
-    border-radius: 4px;
     color: #FFF;
 }
 
+.nav .indent li.active a {
+    background-color: #086D44;
+    border-radius: 4px;
+    color: #FFF;
+}
 
 .nav li {
   display: inline;
 }
 
 .nav .logo img {
-    height: 60px;
+    height: 70px;
     width: auto;
+    position: relative;
+    top: -10px;
 }
 
 .nav .indent{
@@ -34,48 +36,28 @@
 }
 
 .jumbotron {
-  background-color: #143E14;
-  height: 300px;
+  background-color: #086D44;
+  height: 400px;
   background-repeat: no-repeat;
   background-size: cover;
+  position: relative;
+  top: -30px;
 }
 
 .jumbotron .container {
   position: relative;
-  top:40px;
+  top:80px;
 }
 
 .jumbotron h1 {
   color: #FFF;
-  font-size: 48px;  
+  font-size: 52px;  
   font-weight: bold;
 }
 
 .jumbotron p {
-  font-size: 20px;
-  color: #5C8A5C;
-}
-
-.learn-more {
-  background-color: #FFF;
-}
-
-.learn-more h3 {
-  font-size: 20px;
-  font-weight: bold;
-}
-
-.learn-more p {
-    padding-top: 10px;
-}
-
-.learn-more a {
-  color: #072B07;
-}
-
-.learn-more img {
-    height: 250px;
-    width: 375px;
+  font-size: 24px;
+  color: #7CB833;
 }
 
 .lower-bar {
