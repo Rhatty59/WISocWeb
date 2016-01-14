@@ -42,7 +42,7 @@ var main = function () {
         }
 
         currentDot.removeClass('active-dot');
-        prevDot.addclass('active-dot');
+        prevDot.addClass('active-dot');
     });
 }
 

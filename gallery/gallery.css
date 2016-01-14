@@ -1,15 +1,17 @@
 
 .slider {
   position: relative;
+  margin-top: 25px;
   width: 100%;
   height: 470px;
   border-bottom: 1px solid #ddd;
 }
 
 .slider-title {
-    margin-left: 25px;
+    margin-left: 60px;
     margin-bottom: auto;
     margin-top: auto;
+    color: #2F863E;
 }
 
 .slide {
@@ -66,13 +68,13 @@
 }
 
 .slider-dots li {
-  color: #bbbcbc;
+  color: #A3D12D;
   display: inline;
   font-size: 30px;
   margin-right: 5px;
 }
 
 .slider-dots li.active-dot {
-  color: #363636;
+  color: #2F863E;
 }
 
